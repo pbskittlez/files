@@ -1,16 +1,8 @@
-https://youtube.com/
-http://youtube.com/
-https://youtube-nocookie.com/
-http://youtube-nocookie.com/
-https://youtu.be/
-http://youtu.be/
-https://ytimg.com/
-http://ytimg.com/
-https://ggpht.com/
-http://ggpht.com/
-https://googleapis.com/
-http://googleapis.com/
-https://googlevideo.com/
-http://googlevideo.com/
-https://youtubei.googleapis.com/
-http://youtubei.googleapis.com/
+0.0.0.0 youtube.com
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 youtu.be
+0.0.0.0 ytimg.com
+0.0.0.0 ggpht.com
+0.0.0.0 googleapis.com
+0.0.0.0 googlevideo.com
+0.0.0.0 youtubei.googleapis.com
