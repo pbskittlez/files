@@ -1,0 +1,16 @@
+https://youtube.com/
+http://youtube.com/
+https://youtube-nocookie.com/
+http://youtube-nocookie.com/
+https://youtu.be/
+http://youtu.be/
+https://ytimg.com/
+http://ytimg.com/
+https://ggpht.com/
+http://ggpht.com/
+https://googleapis.com/
+http://googleapis.com/
+https://googlevideo.com/
+http://googlevideo.com/
+https://youtubei.googleapis.com/
+http://youtubei.googleapis.com/
