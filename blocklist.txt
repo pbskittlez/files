@@ -1,8 +1,16 @@
 0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
 0.0.0.0 youtube-nocookie.com
+0.0.0.0 www.youtube-nocookie.com
 0.0.0.0 youtu.be
+0.0.0.0 www.youtu.be
 0.0.0.0 ytimg.com
+0.0.0.0 www.ytimg.com
 0.0.0.0 ggpht.com
+0.0.0.0 www.ggpht.com
 0.0.0.0 googleapis.com
+0.0.0.0 www.googleapis.com
 0.0.0.0 googlevideo.com
+0.0.0.0 www.googlevideo.com
 0.0.0.0 youtubei.googleapis.com
+0.0.0.0 www.youtubei.googleapis.com
